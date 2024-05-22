@@ -1,5 +1,5 @@
 
-Big Data Project: Patient Health and Lifestyle Analysis API
+Big Data Project: Patient Health and Lifestyle Analysis API and WEB
 
 Project Description
 
