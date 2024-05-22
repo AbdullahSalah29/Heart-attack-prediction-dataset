@@ -42,9 +42,9 @@ Lifestyle Collection: Endpoints to manage lifestyle-related data.
 Setup Instructions:
 
 
-
 Run the Application:
 python app.py
+
 
 Frontend Description
 Technology Stack:
